@@ -1,0 +1,17 @@
+.home-page {
+  padding: 24px;
+  min-height: 100vh;
+  background: #f0f2f5;
+}
+
+.ant-card {
+  margin-bottom: 24px;
+}
+
+.ant-statistic-title {
+  font-size: 16px;
+}
+
+.ant-statistic-content {
+  font-size: 24px;
+} 
